@@ -1,4 +1,4 @@
-# JLox Compiler - Crafting Interpreters
+# [WIP] JLox Compiler - Crafting Interpreters
 
 JLox is an implementation of the Lox programming language, as described in the book ["Crafting Interpreters"](https://craftinginterpreters.com) by Robert Nystrom. This project provides a fully functional compiler for the Lox language, allowing you to write and execute Lox programs.
 
@@ -12,7 +12,7 @@ JLox is an implementation of the Lox programming language, as described in the b
 
 - **Interpreter:** The compiler interprets the AST and executes the Lox program, providing runtime results.
 
-## Example
+## Example (when completed)
 
 ```lox
 // Hello, World in Lox
